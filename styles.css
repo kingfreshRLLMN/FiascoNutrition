@@ -58,9 +58,6 @@ img {
 .brand {
   display: block;
   width: clamp(190px, 18vw, 286px);
-  padding: 7px 10px;
-  background: #060606;
-  border-radius: 6px;
 }
 
 .brand-logo {
@@ -119,7 +116,7 @@ img {
 }
 
 .hero-logo {
-  width: clamp(138px, 18vw, 230px);
+  width: clamp(230px, 28vw, 430px);
   margin: 0 0 28px;
 }
 
@@ -418,9 +415,6 @@ h3 {
 .cta-logo {
   width: min(420px, 100%);
   margin-bottom: 28px;
-  padding: 14px 18px;
-  background: #050505;
-  border-radius: 8px;
 }
 
 .cart-toast {
